@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RM-66
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning sql
+- 📫 ruiminz@uw.edu
